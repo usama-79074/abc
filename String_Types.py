@@ -28,3 +28,12 @@ age =18
 txt =f"My Name Is Usama Ahmad ,I am {age} Years Old "
 print(txt)
 
+#concatination string
+"""FirstName="usama"
+SecondNAME="ahmad"
+fullname=FirstName+""+SecondNAME
+print(fullname) 
+
+
+print(fullname)"""
+

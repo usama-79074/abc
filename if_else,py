@@ -1,0 +1,14 @@
+#In Python, if-else is used to make decisions in a program.It checks a condition, and based on that condition it runs different code.
+
+
+
+
+num1= int(input("Enter Your Number"))
+num2= int(input("Enter Your Number"))
+num3= int(input("Enter Your Number"))
+if num1>num2 and num1>num3:
+    print("The large num is",num1)
+elif num2>num1 and num2>num3:
+    print("The large num is",num2)
+elif num3>num1 and num3>num2:
+    print("The large num is",num3 )        
